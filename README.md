@@ -5,8 +5,7 @@
 ##Pictures For DB-First-Experiment
 
 要添加图像，请使用感叹号 (!), 然后在方括号增加替代文本，图片链接放在圆括号里，括号里的链接后可以增加一个可选的图片标题文本
-
-![图片alt](图片链接 "图片title")
+![Q1](C:\Users\asus\Desktop\Picture-For-DB"图片1")
 
 
 链接图片
