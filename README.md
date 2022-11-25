@@ -1,8 +1,8 @@
 # DB_HomeWork_2
 
-## Prof.Yang
+## Welcome,Prof.Yang!
 
 ## Personal_Info
-* **Sru_ID:2020141460283**
+* **Sru_ID: 2020141460283**
 
-* **Name:田峻奇**
+* **Name: 田峻奇**
